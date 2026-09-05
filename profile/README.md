@@ -5,8 +5,8 @@
 ### Internal Tools and Applications
 
 [![Website](https://img.shields.io/badge/website-hotpoint.co.ke-004C97?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hotpoint.co.ke)
-[![Location](https://img.shields.io/badge/HQ-Ruiru%2C%20Kenya-e02020?style=for-the-badge&logo=mapbox&logoColor=white)](https://hotpoint.co.ke)
-[![Team](https://img.shields.io/badge/team-engineering%20%26%20IT-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/HQ-Ruiru%2C%20Kenya-e02020?style=for-the-badge&logo=mapbox&logoColor=white)](https://maps.app.goo.gl/YwoH7o1f3LxuU5Lb9)
+[![Team](https://img.shields.io/badge/team-engineering%20%26%20IT-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Hotpoint-Appliances/people)
 
 </div>
 
@@ -57,7 +57,7 @@ Pinned repositories from this organization appear above on the org profile page.
 <br>
 
 <details>
-<summary><b>A few norms</b></summary>
+<summary><b>A few of our norms</b></summary>
 <br>
 
 - **Write clear PRs.** A good description saves the reviewer time and becomes documentation later.
